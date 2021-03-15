@@ -1,0 +1,10 @@
+[
+    {
+       "ParameterKey":"EnvironmentName",
+       "ParameterValue":"UdagramProject"
+    },
+    {
+       "ParameterKey":"NameBucket",
+       "ParameterValue":"udagramproject-s3-store"
+    }
+ ]
